@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/.idea/
+/Assets/Tobii/
+/Assets/VRM/
+/Assets/Models/
+/Assets/Tobii.meta
+/Assets/VRM.meta
+/Assets/Models.meta
+
+/*.dll
